@@ -34,3 +34,5 @@ export type CartItemType = {
   optionTitle?: string;
   quantity: number;
 };
+
+
